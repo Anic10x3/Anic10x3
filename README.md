@@ -1,4 +1,5 @@
-# Hi, I'm Aniket Khaire (Anic10x3) 👋
+# Hi, I'm Aniket Khaire (Anic10x3) 
+
 - 🔭 I’m currently working as Automation Test Engineer - (SDET)
 - 🌱 I’m currently learning Cypress
 - 💬 Ask me about Automation & Football
