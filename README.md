@@ -1,7 +1,7 @@
 # Hi, I'm Aniket Khaire (Anic10x3) 
 
 - 🔭 I’m currently working as Automation Test Engineer - (SDET)
-- 🌱 I’m currently learning Cypress
+- 🌱 I’m trying to lear as much as possible.
 - 💬 Ask me about Automation & Football
 - 📫 How to reach me: aniketmahendrakhaire10@gmail.com
 <!--
